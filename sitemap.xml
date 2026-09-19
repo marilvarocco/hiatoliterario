@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://www.casabaratamanaus.website/</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://www.casabaratamanaus.website/por-fora.png</image:loc><image:title>Fachada da casa a venda no Nova Cidade, Manaus</image:title></image:image>
+    <image:image><image:loc>https://www.casabaratamanaus.website/frente-casa.png</image:loc><image:title>Frente da casa no Nova Cidade</image:title></image:image>
+    <image:image><image:loc>https://www.casabaratamanaus.website/sala.png</image:loc><image:title>Sala da casa principal</image:title></image:image>
+    <image:image><image:loc>https://www.casabaratamanaus.website/cozinha.png</image:loc><image:title>Cozinha da casa principal</image:title></image:image>
+    <image:image><image:loc>https://www.casabaratamanaus.website/quarto.png</image:loc><image:title>Quarto da casa principal</image:title></image:image>
+    <image:image><image:loc>https://www.casabaratamanaus.website/quartokitinet.png</image:loc><image:title>Quarto da kitnet nos fundos</image:title></image:image>
+    <image:image><image:loc>https://www.casabaratamanaus.website/cozinhakitnet.png</image:loc><image:title>Cozinha da kitnet</image:title></image:image>
+    <image:image><image:loc>https://www.casabaratamanaus.website/garagem.png</image:loc><image:title>Garagem coberta</image:title></image:image>
+    <image:image><image:loc>https://www.casabaratamanaus.website/quintal-casa.png</image:loc><image:title>Quintal da casa</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://www.casabaratamanaus.website/bairro-nova-cidade-manaus.html</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.casabaratamanaus.website/casa-com-kitnet-vale-a-pena.html</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.casabaratamanaus.website/comprar-casa-a-vista-manaus.html</loc>
+    <lastmod>2026-01-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+</urlset>
